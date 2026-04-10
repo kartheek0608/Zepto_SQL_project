@@ -111,5 +111,4 @@ Handling real datasets
 Turning raw data into insights
 Improving analytical thinking
 
-Author:
-karthik ,aspiring data analyst
+
